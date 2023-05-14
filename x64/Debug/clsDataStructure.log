@@ -1,0 +1,13 @@
+﻿  clsDataStructure.cpp
+D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\clsString.h(39,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\clsString.h(44,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\clsString.h(55,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\clsString.h(189,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\clsString.h(320,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\clsString.h(368,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\clsTime.h(23,23): warning C4101: 'Second': unreferenced local variable
+D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\clsTime.h(23,9): warning C4101: 'Hour': unreferenced local variable
+D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\clsTime.h(23,15): warning C4101: 'Minute': unreferenced local variable
+D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\clsQueueLine.h(92,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\clsQueueLine.h(93,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  clsDataStructure.vcxproj -> D:\PROGRAMING\C++ Language\Programming Advice\clsDataStructure\x64\Debug\clsDataStructure.exe
